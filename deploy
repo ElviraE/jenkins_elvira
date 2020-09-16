@@ -1,5 +1,6 @@
 #!/bin/bash
 
+chmod 600 
 branch=$BRANCH_NAME # this one
 echo "Branch - $branch"
 
